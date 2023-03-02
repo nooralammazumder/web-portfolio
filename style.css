@@ -15,13 +15,13 @@ p{
     color: orange;
 }
 .half-width{
-    width: 40%;
+    width: 38%;
     float: left;
     margin-left: 6%;
     padding-left: 3%
 }
 .half-width img{
-    width: 100%;
+    width: 110%;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
@@ -29,7 +29,7 @@ p{
 }
 section{
     height: 500px;
-    padding-bottom: 120px;
+    padding-bottom: 100px;
 }
 .link-button{
     text-decoration: none;
@@ -47,7 +47,7 @@ section{
 .single-experiance{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 80%;
+    height: 70%;
     background-color: white;
 }
 .experiance-area{
