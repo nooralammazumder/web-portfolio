@@ -18,18 +18,18 @@ p{
     width: 38%;
     float: left;
     margin-left: 6%;
-    padding-left: 3%
+    padding-left: 2%
 }
 .half-width img{
-    width: 110%;
+    width: 100%;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
 section{
-    height: 500px;
-    padding-bottom: 100px;
+    height: 550px;
+    padding-bottom: 130px;
 }
 .link-button{
     text-decoration: none;
